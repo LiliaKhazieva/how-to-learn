@@ -187,7 +187,7 @@
 .feynman {
   height: 890px;
   position: relative;
-  background: #f2f2f2 url('/images/feynman.png') left bottom no-repeat;
+  background: #f2f2f2 url('../images/feynman.png') left bottom no-repeat;
 }
 
 .feynman__title {
