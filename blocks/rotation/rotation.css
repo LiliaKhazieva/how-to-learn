@@ -1,7 +1,3 @@
-.rotation {
-  animation: 20s linear 0s infinite rotation;
-}
-
 @keyframes rotation {
   0% {
     transform: rotate(0deg);
@@ -11,3 +7,6 @@
   }
 }
 
+.rotation {
+  animation: 20s linear 0s infinite rotation;
+}
